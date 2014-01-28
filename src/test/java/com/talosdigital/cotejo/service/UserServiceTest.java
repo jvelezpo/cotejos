@@ -1,4 +1,4 @@
-package com.talos.cotejo.service;
+package com.talosdigital.cotejo.service;
 
 import static org.mockito.Mockito.*;
 import static org.junit.Assert.*;
@@ -9,11 +9,11 @@ import org.junit.runner.RunWith;
 import org.mockito.Mock;
 import org.mockito.runners.MockitoJUnitRunner;
 
-import com.talos.cotejo.Exception.NoSuchUser;
-import com.talos.cotejo.dao.UserDao;
-import com.talos.cotejo.entity.User;
-import com.talos.cotejo.service.UserService;
-import com.talos.cotejo.service.impl.UserServiceImpl;
+import com.talosdigital.cotejo.dao.UserDao;
+import com.talosdigital.cotejo.entity.User;
+import com.talosdigital.cotejo.exception.NoSuchUser;
+import com.talosdigital.cotejo.service.UserService;
+import com.talosdigital.cotejo.service.impl.UserServiceImpl;
 
 @RunWith(MockitoJUnitRunner.class)
 public class UserServiceTest {

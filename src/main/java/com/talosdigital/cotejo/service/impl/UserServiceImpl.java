@@ -1,8 +1,8 @@
-package com.talos.cotejo.service.impl;
+package com.talosdigital.cotejo.service.impl;
 
-import com.talos.cotejo.dao.UserDao;
-import com.talos.cotejo.entity.User;
-import com.talos.cotejo.service.UserService;
+import com.talosdigital.cotejo.dao.UserDao;
+import com.talosdigital.cotejo.entity.User;
+import com.talosdigital.cotejo.service.UserService;
 
 public class UserServiceImpl implements UserService{
 	

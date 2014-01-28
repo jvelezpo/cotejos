@@ -1,7 +1,7 @@
-package com.talos.cotejo.dao;
+package com.talosdigital.cotejo.dao;
 
-import com.talos.cotejo.entity.Field;
-import com.talos.cotejo.entity.User;
+import com.talosdigital.cotejo.entity.Field;
+import com.talosdigital.cotejo.entity.User;
 
 public interface FieldDao {
 

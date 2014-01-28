@@ -1,9 +1,9 @@
-package com.talos.cotejo.service.impl;
+package com.talosdigital.cotejo.service.impl;
 
-import com.talos.cotejo.dao.FieldDao;
-import com.talos.cotejo.entity.Field;
-import com.talos.cotejo.entity.User;
-import com.talos.cotejo.service.FieldService;
+import com.talosdigital.cotejo.dao.FieldDao;
+import com.talosdigital.cotejo.entity.Field;
+import com.talosdigital.cotejo.entity.User;
+import com.talosdigital.cotejo.service.FieldService;
 
 public class FieldServiceImpl implements FieldService{
 	

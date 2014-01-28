@@ -1,4 +1,4 @@
-package com.talos.cotejo.service;
+package com.talosdigital.cotejo.service;
 
 import static org.mockito.Mockito.*;
 import static org.junit.Assert.*;
@@ -9,10 +9,10 @@ import org.junit.runner.RunWith;
 import org.mockito.Mock;
 import org.mockito.runners.MockitoJUnitRunner;
 
-import com.talos.cotejo.dao.FieldDao;
-import com.talos.cotejo.entity.Field;
-import com.talos.cotejo.service.FieldService;
-import com.talos.cotejo.service.impl.FieldServiceImpl;
+import com.talosdigital.cotejo.dao.FieldDao;
+import com.talosdigital.cotejo.entity.Field;
+import com.talosdigital.cotejo.service.FieldService;
+import com.talosdigital.cotejo.service.impl.FieldServiceImpl;
 
 @RunWith(MockitoJUnitRunner.class)
 public class FieldServiceTest {

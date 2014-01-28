@@ -1,4 +1,4 @@
-package com.talos.cotejo.entity;
+package com.talosdigital.cotejo.entity;
 
 public class User {
 	private int id;

@@ -1,4 +1,4 @@
-package com.talos.cotejo.Exception;
+package com.talosdigital.cotejo.exception;
 
 
 public class NoSuchUser extends Exception {
